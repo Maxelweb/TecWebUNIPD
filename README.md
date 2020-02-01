@@ -1,5 +1,5 @@
 # Progetto di Tecnologie Web
-Progetto di Tecnologie Web, Corso di Informatica 2018-2019, Università degli studi di Padova
+Progetto di Tecnologie Web, Corso di Informatica 2018-2019, Università degli studi di Padova.
 
 **Voto finale:** 27/30
 
